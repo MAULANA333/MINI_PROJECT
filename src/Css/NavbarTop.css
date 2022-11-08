@@ -1,0 +1,10 @@
+.navbar-top{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    border-radius: 20px;
+    background: rgb(69, 164, 219);
+    background: linear-gradient(339deg, rgba(28, 226, 226, 0.707) 0%, rgba(52, 226, 154, 0.81) 42%,
+     rgba(40, 126, 206, 0.807) 100%);
+}
+.text-n{
+    text-decoration-line: none;
+}
