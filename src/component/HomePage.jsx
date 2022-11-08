@@ -14,7 +14,7 @@ const HomePage = () => {
       <div className='container d-flex flex-column 
       justify-content-center align-items-center'>
         <CarouselHome/>
-        <span>By : {user}</span>
+        <span>OWNER : {user}</span>
       </div>
     </div>
     
